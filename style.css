@@ -13,7 +13,7 @@ header {
     color: rgb(42, 122, 228);
 }
 
-chamada {
+.chamada {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -21,7 +21,7 @@ chamada {
     justify-content: center;
 }
 
-chamada-texto {
+.chamada-texto {
     margin-right: 5%;
 }
 
@@ -33,13 +33,13 @@ p {
     font-size: 20px;
 }
 
-categoria-videos {
+.categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
 
-categoria {
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
@@ -50,11 +50,11 @@ categoria {
     height: 200px;
 }
 
-categoria-videos img:hover {
+.categoria-videos img:hover {
     opacity: 1.0;
     border: 3px solid green;
 }
 
-categoria h2 {
+.categoria h2 {
     color: rgb(42, 122, 228);
 }
