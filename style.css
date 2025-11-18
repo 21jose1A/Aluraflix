@@ -40,3 +40,8 @@ img {
     gap: 10px;
 }
 
+.categoria-vídeos {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
