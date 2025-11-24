@@ -59,3 +59,7 @@ height: 200px;
 .categoria-vídeos img:hover {
     opacity: 1.0;
 }
+
+.categoria h2{
+    color: rgb(164, 90, 0)
+}
