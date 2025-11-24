@@ -46,8 +46,12 @@ img {
     gap: 10px;
 }
 
-.categoria{
+.categoria {
     padding-left: 20px;
    padding-right: 20px; 
+}
+
+.categoria-vídeos img {
+    opacity: 0.5 ;
 }
 
